@@ -2,3 +2,7 @@
   color: tomato;
   /* background-color: #000; */
 }
+
+.link {
+  text-decoration: none;
+}
