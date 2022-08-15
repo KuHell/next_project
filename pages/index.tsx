@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <p>h1 {count}</p>
-      <button onClick={()=>setCount((prev) => prev + 1)}> + </button>
+      <button onClick={()=>setCount((prev) => prev + 2)}> + </button>
     </div>
   )
 }
